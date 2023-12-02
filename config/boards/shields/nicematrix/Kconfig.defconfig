@@ -1,0 +1,6 @@
+if SHIELD_NICEMATRIX
+
+config ZMK_KEYBOARD_NAME
+    default "nicematrix"
+
+endif

@@ -1,0 +1,6 @@
+if SHIELD_NICEDIRECT
+
+config ZMK_KEYBOARD_NAME
+    default "nicedirect"
+
+endif
