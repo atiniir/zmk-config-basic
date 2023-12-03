@@ -3,7 +3,4 @@ if SHIELD_NICEDIRECT
 config ZMK_KEYBOARD_NAME
     default "nicedirect"
 
-CONFIG_ZMK_USB=y
-CONFIG_ZMK_USB_LOGGING=y
-
 endif
