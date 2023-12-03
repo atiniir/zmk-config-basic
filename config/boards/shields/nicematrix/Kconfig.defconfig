@@ -3,4 +3,7 @@ if SHIELD_NICEMATRIX
 config ZMK_KEYBOARD_NAME
     default "nicematrix"
 
+CONFIG_ZMK_USB=y
+CONFIG_ZMK_USB_LOGGING=y
+
 endif
